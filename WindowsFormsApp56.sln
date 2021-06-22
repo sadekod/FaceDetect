@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp56", "WindowsFormsApp56\WindowsFormsApp56.csproj", "{25C8122C-A162-4976-8084-DE298A38E92C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yüz Tanıma Sistemi", "Yüz Tanıma Sistemi\Yüz Tanıma Sistemi.vdproj", "{63A18225-29DB-4816-A7C7-3016940EFC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C8122C-A162-4976-8084-DE298A38E92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C8122C-A162-4976-8084-DE298A38E92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C8122C-A162-4976-8084-DE298A38E92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C8122C-A162-4976-8084-DE298A38E92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A18225-29DB-4816-A7C7-3016940EFC09}.Debug|Any CPU.ActiveCfg = Debug
+		{63A18225-29DB-4816-A7C7-3016940EFC09}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C54CF30-90C7-4E5B-8008-13D7539B3860}
+	EndGlobalSection
+EndGlobal
